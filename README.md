@@ -1,4 +1,7 @@
 ### Hey! Hi, Sanyam here 👋
+<a title="Sanyam Aggarwal's github stats" href="https://github.com/kittu-20/">
+  <img alt="Sanyam Aggarwal's github stats" src="https://github-readme-stats.vercel.app/api?username=kittu-20&include_all_commits=true&show_icons=true&theme=nightowl" />
+</a><br/>
 
 <!--
 **kittu-20/kittu-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
