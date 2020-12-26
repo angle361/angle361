@@ -1,12 +1,13 @@
 ### Hey! Hi, Sanyam here 👋
 I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am keenly interested in AI , Competitive Programming and Development.
 
-### **Talking about Personal Stuff:**
+### **About myself:**
 
 - 💻 I’m currently working on my WebDev skills. 
 - 🌱 Facsinated for AI.  
 - 💬 Every ready to learn new things. 
 - 📫 Contact me: `sanyam.student.mec19@itbhu.ac.in`
+### **📈 My GitHub Stats** 
 <a title="Github Stats" href="https://github.com/kittu-20/">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kittu-20&include_all_commits=true&show_icons=true&theme=nightowl" />
 </a><br/>
