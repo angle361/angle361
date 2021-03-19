@@ -1,5 +1,5 @@
 ### Hey! Hi, Sanyam here 👋
-I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am keenly interested in AI , Competitive Programming and Development.
+I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am a full Stack Web Developer. I am keenly interested in AI , Competitive Programming and Development.
 
 ### **About myself:**
 
