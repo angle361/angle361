@@ -26,8 +26,9 @@ I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am a full Stack
 <br />
 ### **📈 My GitHub Stats** 
 <a title="Github Stats" href="https://github.com/angle361/">
-  <img alt="Github Stats" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=angle361&include_all_commits=true&show_icons=true&theme=nightowl" />
+  <img alt="Github Stats" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=angle361&include_all_commits=true&show_icons=true&theme=nightowl"    
   <img alt="Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angle361&theme=buefy&layout=compact" />
+       />
 </a><br/>
 
 <!--
