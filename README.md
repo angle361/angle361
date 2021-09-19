@@ -20,7 +20,7 @@ I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am a full Stack
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
+
 ### **📈 My GitHub Stats** 
 <a title="Github Stats" href="https://github.com/angle361/">
   <img alt="Github Stats" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=angle361&include_all_commits=true&show_icons=true&theme=nightowl"/>    
