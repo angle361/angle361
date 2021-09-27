@@ -1,5 +1,5 @@
 ### Hey! Hi, Sanyam here 👋
-I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am a full Stack Web Developer. I am keenly interested in AI , Competitive Programming and Development.
+I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am a full Stack Web Developer. I am interested in Competitive Programming and Development.
 
 ### **About myself:**
 
@@ -7,8 +7,8 @@ I am a Mechanical engineer undergraduate at IIT(BHU) Varanasi. I am a full Stack
 - 🌱 Facsinated for AI.  
 - 💬 Every ready to learn new things. 
 - 📫 Contact me: `sanyam.student.mec19@itbhu.ac.in`
-- Linkedin : https://www.linkedin.com/in/sanyam-aggarwal-8060121b2/
-- My Website : https://angle361.herokuapp.com/
+- Linkedin : https://www.linkedin.com/in/sanyam-aggarwal/
+<!-- - My Website : https://angle361.herokuapp.com/ -->
 ### Languages and Tools:
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
